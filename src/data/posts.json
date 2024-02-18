@@ -1,0 +1,40 @@
+{
+  "posts": [
+    {
+      "id": "next.js13-udemy",
+      "title": "Next.js13をUDEMYで学習中",
+      "content": "kentobbとして勉強しています",
+      "createdAt": "2024/2/17"
+    },
+    {
+      "id": "next.js13-now",
+      "title": "json-server",
+      "content": "[!IMPORTANT] Viewing alpha v1 documentation-usable but expect breaking changes. For stable version, see here",
+      "createdAt": "2024/2/16"
+    },
+    {
+      "id": "Routes",
+      "title": "Params",
+      "content": "This project uses the Fair Source License. Note: Only organizations with 3+ users need to contribute a small amount through sponsorship sponsor for usage. This license helps keep the project sustainable and healthy, benefiting everyone.For more information, FAQs, and the rationale behind this, visit https://fair.io/.",
+      "createdAt": "2024/2/18"
+    },
+    {
+      "id": "next.js13-udemy",
+      "title": "titkle",
+      "content": "test content",
+      "createdAt": "2024-02-18T02:53:38.006Z"
+    },
+    {
+      "id": "nextjspostingtest",
+      "title": "testtitle2",
+      "content": "testesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestesttestest",
+      "createdAt": "2024-02-18T02:56:57.658Z"
+    },
+    {
+      "id": "nojdnao",
+      "title": "danoundao",
+      "content": "danoujnoakndoaudnaoudjiamo",
+      "createdAt": "2024-02-18T02:58:31.164Z"
+    }
+  ]
+}
